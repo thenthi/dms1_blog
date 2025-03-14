@@ -5,3 +5,4 @@ snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
+![picture](IMG_2021.webp)
