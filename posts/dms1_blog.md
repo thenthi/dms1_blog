@@ -5,7 +5,7 @@ snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
-This is a book containing Digital Media wisdom, found amongst many.
+#This is a book containing Digital Media wisdom, found amongst many.
 ![picture](IMG_2021.webp)
 This is a wide machine, dispensing beverages from a far away land.
 ![picture](IMG_2022.webp)
